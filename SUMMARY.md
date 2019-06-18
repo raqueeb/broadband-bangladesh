@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [ইন্টারনেটের দাম নিয়ে বই](README.md)
 
 ## ব্রডব্যান্ড বাংলাদেশ <a id="bb-internet"></a>
 
