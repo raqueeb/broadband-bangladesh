@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## ব্রডব্যান্ড বাংলাদেশ
+## ব্রডব্যান্ড বাংলাদেশ <a id="bb-internet"></a>
 
 * [১. শুরুর কথা](bb-internet/readme/README.md)
   * [১.১. ইন্টারনেট নিয়ে কেন?](bb-internet/readme/why-internet.md)
@@ -37,6 +37,7 @@
   * [৫.৬. ডিমান্ড এগ্রিগেশন, সবচেয়ে বড় ক্রেতা কে?](bb-internet/internet-pricing/demand-aggregation.md)
   * [৫.৭. সাবমেরিন কেবলের গল্প](bb-internet/internet-pricing/submarine-cable.md)
   * [৫.৮. রিভার্স সাবসিডি অকশন](bb-internet/internet-pricing/reverse-subsidy.md)
+  * [৫.৯ সাগরের নিচে যাবেন নাকি একবার?](bb-internet/internet-pricing/under-the-sea.md)
 * [৬. পয়সা আসবে কোথা থেকে?](bb-internet/README.md)
   * [৬.১. আসছে না কেন ইনভেস্টমেন্ট?](bb-internet/.-..md)
   * [৬.২. দেশকে বেচেঁ  দেন তো দেখি?](bb-internet/.-.-1.md)
